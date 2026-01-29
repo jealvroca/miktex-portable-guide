@@ -209,20 +209,20 @@ Entpacke alle ZIP-Dateien in die entsprechenden Ordner:
 
 ## Teil 3: TeXstudio konfigurieren
 
-### Easy Setup: Add MiKTeX to PATH (recommended)
+### Einfache Einrichtung: MiKTeX zum PATH hinzufügen (empfohlen)
 
-Instead of manually entering all paths, you can add MiKTeX to your user PATH variable:
+Anstatt alle Pfade manuell einzutragen, kannst du MiKTeX zur User-PATH-Variable hinzufügen:
 
-1. In Windows: Search for "Environment Variables" → "Edit environment variables for your account"
-2. Select **Path** → **Edit**
-3. Click **New** and add:
+1. In Windows: Suche nach "Umgebungsvariablen" → "Umgebungsvariablen für dieses Konto bearbeiten"
+2. Wähle **Path** → **Bearbeiten**
+3. Klick auf **Neu** und füge hinzu:
 ```
    D:\LaTeX\MiKTeX-Portable\texmfs\install\miktex\bin\x64
 ```
-4. Click **OK** to save
-5. Start TeXstudio – all commands will be automatically detected!
+4. Klick **OK** zum Speichern
+5. Starte TeXstudio – alle Befehle werden automatisch erkannt!
 
-> 💡 If this works, you can skip Steps 3.2 and 3.3. The manual configuration below is only needed if PATH doesn't work on your system.
+> 💡 Wenn das funktioniert, kannst du die Schritte 3.2 und 3.3 überspringen. Die manuelle Konfiguration unten ist nur nötig, falls PATH auf deinem System nicht funktioniert.
 
 ---
 

@@ -44,8 +44,8 @@ Diese Anleitung zeigt, wie man:
 | Komponente | Größe |
 |------------|-------|
 | MiKTeX Repository (Download) | ~5,5 GB |
-| MiKTeX Portable (installiert) | ~4 GB |
-| MiKTeX Portable (ZIP) | ~2-3 GB |
+| MiKTeX Portable (installiert) | ~10-11 GB |
+| MiKTeX Portable (ZIP) | ~6-7 GB |
 | TeXstudio Portable | ~150 MB |
 | Sumatra PDF Portable | ~15 MB |
 
